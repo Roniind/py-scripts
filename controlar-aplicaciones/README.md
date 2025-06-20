@@ -10,6 +10,9 @@ Este script permite abrir o cerrar aplicaciones del sistema automáticamente usa
 ### Requisitos
 
 - Python 3.x
+
+  
+Instala la librería psutil si aún no la tienes:
 - psutil → `pip install psutil`
 
 ### Nota:
