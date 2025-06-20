@@ -1,0 +1,8 @@
+--- Librerias usadas --- 
+pytube
+moviepy
+pyperclip
+reportlab
+pandas
+openpyxl
+psutil
