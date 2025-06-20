@@ -13,7 +13,7 @@ Están diseñados para ser simples, útiles y fáciles de modificar según tus n
 ## 🚀 Requisitos
 
 - Python 3.x
-- Algunas librerías estándar o de terceros (especificadas en cada script si son necesarias)
+- Algunas librerías estándar o de terceros (especificadas en cada script en el archivo README si son necesarias)
 
 ## 👨‍💻 Autor
 Robinson Carreño — Estudiante de Ingeniería de Sistemas
